@@ -1,2 +1,4 @@
 venv2/
-projections.json
+project*
+*.json
+*.csv
